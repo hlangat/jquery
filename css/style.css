@@ -1,25 +1,11 @@
-img {
-  display: none;
+.green-background {
+  background-color: green;
 }
 
-.walrus-showing {
-  display: none;
+.yellow-background {
+  background-color: yellow;
 }
 
-p {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-p:hover {
-  text-decoration: underline;
-}
-
-.clickable {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable:hover {
-  text-decoration: underline;
+.red-background {
+  background-color: red;
 }
